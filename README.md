@@ -3,7 +3,7 @@
 - 🌱 my skills as a developer are as follows  ... Python and Django , JavaScript,PHP,html bootstrap/css
 - 💞️ I’m looking to collaborate on ... projects on this programs
 - 📫 How to reach me ...07058715096 on WhatsApp 
-- ⚡ Fun fact: ... exploring new things in program is my thing 😎
+- ⚡ Fun fact: ... exploring new things in programing is my thing 😎
 
 <!---
 anointing1234/anointing1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @anointing1234
-- 👀 I’m a... full stack developer 
-- 🌱 my skills as a developer are as follows  ... Python and Django , JavaScript,html bootstrap/css
-- 💞️ I’m looking to collaborate on ... projects on this programs
-- 📫 How to reach me ...07058715096 on WhatsApp 
-- ⚡ Fun fact: ... exploring new things in programing is my thing 😎
+# Hey, I'm Anointing 👋
 
-<!---
-anointing1234/anointing1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full Stack Developer** specializing in Python, Django, and building scalable web applications.
+
+## 🛠 Tech Stack
+- **Backend:** Python, Django, Django REST Framework, PostgreSQL
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Current Focus
+- Building production-ready REST APIs
+- Contributing to open source Django projects
+- Mastering API design and database optimization
+
+## 📫 Let's Connect
+- **LinkedIn:** https://www.linkedin.com/in/anointing-yakubu-801352278
+- **Email:** infoagmetrix@gmail.com
+
+---
+⚡ Currently open to remote full-stack and backend developer roles
